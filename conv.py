@@ -19,7 +19,6 @@ Aquí hay información para ayudarte:
 1 galón = 3.785411784 litros.
 """
 
-from re import M
 from unicodedata import numeric
 
 
